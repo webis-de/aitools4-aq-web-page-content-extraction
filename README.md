@@ -28,5 +28,5 @@ Dependencies (packed into the aitools4-aq-web-page-content-extraction-bin.jar)
   - apache-httpcomponents-client-4.5.2
   - icu4j-4.8.1.1
   - jericho-html-3.3
-  - [Lemur project WARC classes][http://www.lemurproject.org/clueweb09/workingWithWARCFiles.php] (for WARC files and Hadoop)
+  - [Lemur project WARC classes](http://www.lemurproject.org/clueweb09/workingWithWARCFiles.php) (for WARC files and Hadoop)
 
