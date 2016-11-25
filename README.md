@@ -11,7 +11,7 @@ Library and command line program to extract main content sentences from web page
 
 See the documentation of de.aitools.aq.web.extractor.PotthastJerichoExtractor for more information. To extract all text from a web page, use de.aitools.aq.web.extractor.JerichoHtmlSentenceExtractor.
 
-When you use this software, cite it as
+When you use this software, cite it as [[bibtex](http://www.uni-weimar.de/medien/webis/publications/bibentries.php?bibkey=stein_2017a)]
 <pre>
 Johannes Kiesel, Benno Stein, and Stefan Lucks.
 A Large-scale Analysis of the Mnemonic Password Advice.
